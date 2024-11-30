@@ -2,7 +2,7 @@
 enableIgnoreUnbreakingChecks: false
 enableIgnoreSkipForBasegameItems: false
 ENABLE-DEBUG: false
-language: en
+language: cn
 FriendlyFireEnabled: false
 showPossibleCrashHelpMessage: true
 Enable_Creation_Of_Default_Files: true
